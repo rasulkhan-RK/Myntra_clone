@@ -1,8 +1,6 @@
-# React + Vite
+# Myntra Clone (React, Redux, Node.js)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a basic Myntra clone built using React, Redux Toolkit, and a Node.js backend. It serves as a practice project to understand the flow of a full-stack application, including front-end (React) state management with Redux Toolkit and back-end (Node.js) setup for basic functionality.
 
-Currently, two official plugins are available:
+![Screenshot 2024-11-18 213327](https://github.com/user-attachments/assets/a48fd75c-199b-4676-87cd-24858787d889)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
